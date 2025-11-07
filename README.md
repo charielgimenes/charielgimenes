@@ -1,6 +1,6 @@
 #  Chariel
 
-  **`Desenvolvedor Front end`**
+  **`Desenvolvedor Front End`**
 
 Me chamo Chariel Gimenes, sou Formado em Gestão de TI e Acadêmico de Engenharia de Software. 10 anos de experiência com Suporte de TI.
 
